@@ -20,6 +20,8 @@ body {
 .btn-default {
     background: rgb(210,114,23);
     background: linear-gradient(90deg, #FF890A 35%,#FD1F26);
+    padding-top:0.6rem;
+    padding-bottom:0.6rem;
     color:white;
     font-weight: bold;
     font-size:10pt;
